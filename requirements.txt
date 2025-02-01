@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+googletrans==4.0.0-rc1
+nltk
+Flask
+joblib
+flask_cors

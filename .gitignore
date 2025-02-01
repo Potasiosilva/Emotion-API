@@ -1,0 +1,36 @@
+# Archivos y directorios de entornos virtuales
+.venv/
+venv/
+ENV/
+env/
+
+# Archivos y directorios de configuración y caché
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.log
+
+# Archivos de bases de datos locales
+*.sqlite3
+*.db
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de configuración específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales y de compilación
+build/
+dist/
+*.bak
+
+# Archivos de configuración de herramientas de terceros
+*.env
+.env.*
+
+# Archivos de modelos y vectorizadores
+*.joblib
